@@ -1,0 +1,14 @@
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\bin\Debug\net8.0\MyFirstCsharp.exe
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\bin\Debug\net8.0\MyFirstCsharp.deps.json
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\bin\Debug\net8.0\MyFirstCsharp.runtimeconfig.json
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\bin\Debug\net8.0\MyFirstCsharp.dll
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\bin\Debug\net8.0\MyFirstCsharp.pdb
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.GeneratedMSBuildEditorConfig.editorconfig
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.AssemblyInfoInputs.cache
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.AssemblyInfo.cs
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.csproj.CoreCompileInputs.cache
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.dll
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\refint\MyFirstCsharp.dll
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.pdb
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.genruntimeconfig.cache
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\ref\MyFirstCsharp.dll
