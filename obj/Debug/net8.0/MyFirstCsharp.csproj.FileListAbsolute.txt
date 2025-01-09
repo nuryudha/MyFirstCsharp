@@ -12,3 +12,4 @@ e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug
 e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.pdb
 e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.genruntimeconfig.cache
 e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\ref\MyFirstCsharp.dll
+e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.sourcelink.json

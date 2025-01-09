@@ -6,6 +6,8 @@ Console.WriteLine("");
 Console.WriteLine("---------Program Utama ----------");
 Console.WriteLine("");
 
+
+
 // var ModulKelas3 = new UserInput_3();
 // ModulKelas3.UserInput();
 
@@ -15,6 +17,14 @@ Console.WriteLine("");
 // var ModulKelas5 = new AssignmentOperator_5();
 // ModulKelas5.AssignmentOperator();
 
-var ModulKelas6 = new IfElseStatement_6();
-ModulKelas6.IfElseStatement();
+// var ModulKelas12 = new Method_12();
+// ModulKelas12.Method();
 
+// var ModulKelas13 = new ArgumentsMethod_13();
+// ModulKelas13.ArgumentsMethod();
+
+// var ModulKelas14 = new MethodOverloading_14();
+// ModulKelas14.MethodOverloading();
+
+var Modulkelas15 = new Array_15();
+Modulkelas15.Arrays();
