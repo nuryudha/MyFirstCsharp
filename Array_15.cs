@@ -11,10 +11,11 @@ namespace MyFirstCsharp
         {
             int[] ArrInt = { 1, 3, 5, 7, 9 };
             double[] ArrDouble = { 1.4, 3.6, 5.8, 9.9 };
-            string[]
+            string[] ArrString = {"Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"};
 
             Console.WriteLine(ArrInt[0]);
             Console.WriteLine(ArrDouble[1]);
+            Console.WriteLine(ArrString[3]);
 
 
         }

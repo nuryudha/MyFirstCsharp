@@ -13,3 +13,18 @@ e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug
 e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.genruntimeconfig.cache
 e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\ref\MyFirstCsharp.dll
 e:\4. Mandiri Utama Finance\99. Visual CSharp\BELAJAR C#\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.sourcelink.json
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.AssemblyInfoInputs.cache
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.AssemblyInfo.cs
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.csproj.CoreCompileInputs.cache
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.sourcelink.json
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.dll
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\obj\Debug\net8.0\refint\MyFirstCsharp.dll
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.pdb
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\bin\Debug\net8.0\MyFirstCsharp.exe
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\bin\Debug\net8.0\MyFirstCsharp.deps.json
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\bin\Debug\net8.0\MyFirstCsharp.runtimeconfig.json
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\bin\Debug\net8.0\MyFirstCsharp.dll
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\bin\Debug\net8.0\MyFirstCsharp.pdb
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\obj\Debug\net8.0\MyFirstCsharp.genruntimeconfig.cache
+D:\1. Nur Yudha Kurnia\98. PERSONAL\MyFirstCsharp\obj\Debug\net8.0\ref\MyFirstCsharp.dll

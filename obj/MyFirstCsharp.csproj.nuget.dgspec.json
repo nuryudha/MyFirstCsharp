@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\4. Mandiri Utama Finance\\99. Visual CSharp\\BELAJAR C#\\MyFirstCsharp\\MyFirstCsharp.csproj": {}
+    "D:\\1. Nur Yudha Kurnia\\98. PERSONAL\\MyFirstCsharp\\MyFirstCsharp.csproj": {}
   },
   "projects": {
-    "E:\\4. Mandiri Utama Finance\\99. Visual CSharp\\BELAJAR C#\\MyFirstCsharp\\MyFirstCsharp.csproj": {
+    "D:\\1. Nur Yudha Kurnia\\98. PERSONAL\\MyFirstCsharp\\MyFirstCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\4. Mandiri Utama Finance\\99. Visual CSharp\\BELAJAR C#\\MyFirstCsharp\\MyFirstCsharp.csproj",
+        "projectUniqueName": "D:\\1. Nur Yudha Kurnia\\98. PERSONAL\\MyFirstCsharp\\MyFirstCsharp.csproj",
         "projectName": "MyFirstCsharp",
-        "projectPath": "E:\\4. Mandiri Utama Finance\\99. Visual CSharp\\BELAJAR C#\\MyFirstCsharp\\MyFirstCsharp.csproj",
-        "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-        "outputPath": "E:\\4. Mandiri Utama Finance\\99. Visual CSharp\\BELAJAR C#\\MyFirstCsharp\\obj\\",
+        "projectPath": "D:\\1. Nur Yudha Kurnia\\98. PERSONAL\\MyFirstCsharp\\MyFirstCsharp.csproj",
+        "packagesPath": "C:\\Users\\15997429\\.nuget\\packages\\",
+        "outputPath": "D:\\1. Nur Yudha Kurnia\\98. PERSONAL\\MyFirstCsharp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\15997429\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
